@@ -17,6 +17,7 @@ Written by Kelvin Leung for Locatrix Communications
  3. cd httplib2-0.8
  4. python setup.py install
 3.	open config.py and change the configuration settings
+ 1. You can find your API token here: https://www.pivotaltracker.com/profile
 4.	run the python script - pt_summary.py
 5.  setup a nightly cron job if you like
  1. crontab -e
